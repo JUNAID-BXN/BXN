@@ -1,1 +1,2 @@
 import BXN
+BXN.BXN()
