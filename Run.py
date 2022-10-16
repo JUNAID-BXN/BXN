@@ -1,1 +1,2 @@
-BXN
+
+"/sdcard/BXN.py"
