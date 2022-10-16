@@ -1,2 +1,1 @@
-import BXN
-BXN.BXN()
+import BXN()
