@@ -1,4 +1,4 @@
-# \33[1;32mBXN
+#BXN
 rm -rf BXN
 
 git clone https://github.com/JUNAID-BXN/BXN.got
