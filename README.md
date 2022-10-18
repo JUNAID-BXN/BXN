@@ -1,10 +1,10 @@
-# BXN
+# \33[1;32mBXN
 rm -rf BXN
 
 git clone https://github.com/JUNAID-BXN/BXN.got
 
 cd BXN
 
-python BXN.py
+python BXN
 
-Free Enjoy
+#PAID TOOLS
